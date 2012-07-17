@@ -120,7 +120,7 @@ tabGroup.open();
 			left: 10,
 			font:{
       				fontSize:15,
-      				fontFamily: "Hitchcock"
+      				fontFamily: "Hitchcock",
    				},
    			//textAlign:'left',
 			//width:'auto',
@@ -191,6 +191,7 @@ tabGroup.open();
 				var label = Ti.UI.createLabel({
 					left: 15,
 					font:{
+						fontFamily: "Hitchcock",
       					fontSize:20
    					},
 					text: (groupNum+1) + " " + GroupText.item(0).nodeValue
@@ -243,6 +244,7 @@ tabGroup.open();
 				var label = Ti.UI.createLabel({
 					left: 15,
 					font:{
+						fontFamily: "Hitchcock",
       					fontSize:20
    					},
 					text: (groupNum+1) + " " + GroupText.item(0).nodeValue
@@ -293,6 +295,7 @@ tabGroup.open();
 				var label = Ti.UI.createLabel({
 					left: 15,
 					font:{
+						fontFamily: "Hitchcock",
       					fontSize:20
    					},
 					text: (groupNum+1) + " " + GroupText.item(0).nodeValue
@@ -341,6 +344,7 @@ tabGroup.open();
 				var label = Ti.UI.createLabel({
 					left: 15,
 					font:{
+						fontFamily: "Hitchcock",
       					fontSize:20
    					},
 					text: (groupNum+1) + " " + GroupText.item(0).nodeValue
