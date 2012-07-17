@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playset>
+	<title>Gangster London</title>
+	<author>Graham Walmsley</author>
+	<tab>
+		<quote>A NASTY PIECE OF WORK</quote>
+		<score>A dead body, a Cockney drug-dealer selling from the back of the kebab shop, three suitcases full of blue flake cocaine and an unexploded World War Two bomb - these are a few of the things that make for a proper East End fiasco. This playset is for fans of films with a certain ugly, stylish sensibility.
+Maybe you’re just a working-class bloke looking to catch a break, and your mate from the pub knows a guy who has a sure thing. Only it’s not a sure thing and then your mate’s dodgy girlfriend gets involved, and then the Russians find out what you’ve done and it’s all going to go tits-up, isn’t it?</score>
+		<movies>Lock, Stock and Two Smoking Barrels. The Bank Job. Sexy Beast.</movies>
+	</tab>
+	<tab text="Relationships">
+		<group text="Work">
+			<item number="1">Me and this bloke I used to work with</item>
+			<item number="2">Me and my boss from work</item>
+			<item number="3">Me and this bloke from work</item>
+			<item number="4">Me and this bloke who fixed our car / plumbing / electrics</item>
+			<item number="5">Me and this bloke I bought something off of</item>
+			<item number="6">Me and my doctor / lawyer / accountant</item>
+		</group>
+		<group text="Friendship">
+			<item number="1">Former cellmates</item>
+			<item number="2">Army buddies</item>
+			<item number="3">This bloke from down the pub</item>
+			<item number="4">“I saved his life, you know”</item>
+			<item number="5">“I’ve known him since school”</item>
+			<item number="6">“We’re just mates, we’re not like shagging or anything.”</item>
+		</group>
+		<group text="Odd">
+			<item number="1">Alcoholics Anonymous</item>
+			<item number="2">Salvation Army</item>
+			<item number="3">Young Conservatives</item>
+			<item number="4">Socialists</item>
+			<item number="5">Environmental campaigners</item>
+			<item number="6">Probation officer and criminal</item>
+		</group>
+		<group text="Romance">
+			<item number="1">Secret lovers</item>
+			<item number="2">Married</item>
+			<item number="3">Separated</item>
+			<item number="4">On-again, off-again partners</item>
+			<item number="5">Stalker and stalkee</item>
+			<item number="6">Don’t like each other much, but can’t stop shagging</item>
+		</group>
+		<group text="Crime">
+			<item number="1">Criminal boss and underling</item>
+			<item number="2">Gamblers</item>
+			<item number="3">Small-time housebreakers</item>
+			<item number="4">Con man and mark</item>
+			<item number="5">Drug dealers</item>
+			<item number="6">Hoodies</item>
+		</group>
+		<group text="Family">
+			<item number="1">Siblings</item>
+			<item number="2">Cousins</item>
+			<item number="3">Distant relatives who have never met</item>
+			<item number="4">Parent and child or stepchild</item>
+			<item number="5">Uncle / aunt and nephew / niece</item>
+			<item number="6">Parent-in-law / son- or daughter-in-law</item>
+		</group>
+	</tab>
+	<tab text="Needs">
+		<group text="To Get Laid">
+			<item number="1">... to prove something</item>
+			<item number="2">... to get something you want</item>
+			<item number="3">... to forget about getting dumped</item>
+			<item number="4">... to rekindle an old romance</item>
+			<item number="5">... for the first time</item>
+			<item number="6">... for the last time</item>
+		</group>
+		<group text="To Get Some Answers">
+			<item number="1">... about Ned’s “Four o’clock meeting in Brixton”</item>
+			<item number="2">... about someone’s infidelity</item>
+			<item number="3">... to a question of parentage</item>
+			<item number="4">... from the police, about an unsolved crime</item>
+			<item number="5">... about the accident that still haunts you</item>
+			<item number="6">... about Shelley’s commitment to the enterprise</item>
+		</group>
+		<group text="To Get Revenge">
+			<item number="1">... about Ned’s “Four o’clock meeting in Brixton”</item>
+			<item number="2">... about someone’s infidelity</item>
+			<item number="3">... to a question of parentage</item>
+			<item number="4">... from the police, about an unsolved crime</item>
+			<item number="5">... about the accident that still haunts you</item>
+			<item number="6">... about Shelley’s commitment to the enterprise</item>
+		</group>
+		<group text="To Get Respect">
+			<item number="1">... from the London criminal underground</item>
+			<item number="2">... by showing everybody who the real boss is</item>
+			<item number="3">... from your lover, by keeping an unfortunate promise</item>
+			<item number="4">... from a family member, by backing their plan</item>
+			<item number="5">... from yourself, by standing up to a bully</item>
+			<item number="6">... by going straight at last</item>
+		</group>
+		<group text="To Get Rich">
+			<item number="1">... by ripping off a dealer</item>
+			<item number="2">... by running eastern European prostitutes</item>
+			<item number="3">... by robbing a family business</item>
+			<item number="4">... by working a political deal in the neighborhood</item>
+			<item number="5">... by opening a kebab shop</item>
+			<item number="6">... by finding a buyer for these diamonds you “found”</item>
+		</group>
+		<group text="To Get Out">
+			<item number="1">... of London before the Russians find you</item>
+			<item number="2">... of debt, through one last bold deal</item>
+			<item number="3">... of a relationship gone dangerously sour</item>
+			<item number="4">... of your interminable marriage</item>
+			<item number="5">... of an obligation to a powerful criminal</item>
+			<item number="6">... of England before Scotland Yard catches up with you</item>
+		</group>
+	</tab>
+	<tab text="Locations">
+		<group text="Residences">
+			<item number="1">Flat 253, Broadwater House</item>
+			<item number="2">“The Rivings”</item>
+			<item number="3">23 Mulberry Grove</item>
+			<item number="4">Raddeston Place</item>
+			<item number="5">Villa El Mariachi, Costa Del Sol</item>
+			<item number="6">The Squat</item>
+		</group>
+		<group text="Houses">
+			<item number="1">Penthouse</item>
+			<item number="2">Auction House</item>
+			<item number="3">Whorehouse</item>
+			<item number="4">Family house</item>
+			<item number="5">Country house</item>
+			<item number="6">Warehouse</item>
+		</group>
+		<group text="Landmarks">
+			<item number="1">The British Library</item>
+			<item number="2">The Tower of London</item>
+			<item number="3">The River Thames</item>
+			<item number="4">Canary Wharf</item>
+			<item number="5">The Millennium Dome</item>
+			<item number="6">Kew Gardens</item>
+		</group>
+		<group text="Food and Drink">
+			<item number="1">Ali’s Cafe</item>
+			<item number="2">The Crown and Anchor</item>
+			<item number="3">Grabber’s Nightclub</item>
+			<item number="4">Stan Fish’s Gentleman’s Entertainment Club</item>
+			<item number="5">The Ivy</item>
+			<item number="6">The Royal India Tandoori</item>
+		</group>
+		<group text="Workplaces">
+			<item number="1">Reiman, Losser and Reiman, a large bank</item>
+			<item number="2">The pig farm</item>
+			<item number="3">Jacob Fein, jeweller</item>
+			<item number="4">Captain Comic, books and graphic novels</item>
+			<item number="5">Bulldog English’s specialist bookstore</item>
+			<item number="6">The Paper Recycling Plant</item>
+		</group>
+		<group text="Oddities">
+			<item number="1">Cat rescue home</item>
+			<item number="2">Royal Northern Hospital</item>
+			<item number="3">The Lodge Of the Masonic Order of the Stars</item>
+			<item number="4">A synagogue</item>
+			<item number="5">Locker 3867 At Waterloo Station</item>
+			<item number="6">“You Do Not Ask What Goes On Back There”</item>
+		</group>
+	</tab>
+	<tab text="Objects">
+		<group text="Unfortunate">
+			<item number="1">Forty chickens in eighty cages</item>
+			<item number="2">Hydroponic cannabis-growing facility</item>
+			<item number="3">Collection of priceless stamps, ruined</item>
+			<item number="4">“Peckham Rolex” electronic ankle monitor</item>
+			<item number="5">Dead body</item>
+			<item number="6">Ten thousand leaflets about Jesus</item>
+		</group>
+		<group text="Transportation">
+			<item number="1">Motorbike</item>
+			<item number="2">Nondescript white van</item>
+			<item number="3">Subaru Impreza 5-door wagon</item>
+			<item number="4">Milk float</item>
+			<item number="5">Speedboat</item>
+			<item number="6">Rolls Royce</item>
+		</group>
+		<group text="Weapon">
+			<item number="1">Sawn-off shotgun</item>
+			<item number="2">“Jesus Christ, it’s a fucking katana!”</item>
+			<item number="3">An unexploded World War Two bomb</item>
+			<item number="4">Antique duelling pistols</item>
+			<item number="5">Three hand grenades</item>
+			<item number="6">A water pistol that looks like a real gun</item>
+		</group>
+		<group text="Information">
+			<item number="1">Angus’ mysterious last words</item>
+			<item number="2">A conversation you shouldn’t have been listening to</item>
+			<item number="3">A contract; maybe a legally binding one</item>
+			<item number="4">An encrypted CD</item>
+			<item number="5">Property deeds</item>
+			<item number="6">Compromising photographs</item>
+		</group>
+		<group text="Valuables">
+			<item number="1">Ten thousand pounds in 5 pence pieces</item>
+			<item number="2">An arse-load of diamonds!</item>
+			<item number="3">Vintage car</item>
+			<item number="4">“All you need to know is: what’s in here is fucking valuable.”</item>
+			<item number="5">Suitcase full of cash</item>
+			<item number="6">Purebred cat</item>
+		</group>
+		<group text="Extra-Legal">
+			<item number="1">The strongest weed you will ever smoke</item>
+			<item number="2">Three suitcases full of blue flake cocaine</item>
+			<item number="3">Five thousand fake passports</item>
+			<item number="4">Six Romanian asylum-seekers</item>
+			<item number="5">Floor plans of a Ministry of Defence establishment</item>
+			<item number="6">“This is the most dangerous weapon you have ever laid your dirty little hands on.”</item>
+		</group>
+	</tab>
+</playset>

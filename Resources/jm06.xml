@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playset>
+	<title>Last Frontier</title>
+	<author>Jason Morningstar</author>
+	<tab>
+		<quote>Southeast Alaska</quote>
+		<score>Adding some pitch black and blood red to the great white north ... fishing villages and fishing village idiots, timber contracts and factory ships, State Troopers in floatplanes and the weird guys who hide when they fly over - set among the emerald forests of southeast Alaska’s vast archipelago, this playset drags an offbeat but familiar setting into the crosshairs.</score>
+		<movies>Insomnia, Northern Exposure (TV), Timber Tramps.</movies>
+	</tab>
+	<tab text="Relationships">
+		<group text="Family">
+			<item number="1">Unrelated but still family</item>
+			<item number="2">Siblings</item>
+			<item number="3">Parent and adopted child</item>
+			<item number="4">Parent and son / daughter-in-law</item>
+			<item number="5">Distant relatives through obscure lineage</item>
+			<item number="6">Grandparent / grandchild</item>
+		</group>
+		<group text="Friendship">
+			<item number="1">A sourdough and a cheechako</item>
+			<item number="2">Old friends from back in Juneau</item>
+			<item number="3">Stoner pals</item>
+			<item number="4">Cheerful competitors</item>
+			<item number="5">Friends with benefits</item>
+			<item number="6">Ruthless social rivals</item>
+		</group>
+		<group text="Crime">
+			<item number="1">Smuggler and fence / broker</item>
+			<item number="2">Gambler and bookie</item>
+			<item number="3">Fishing outlaws (quota thieves, endangered species bycatch sellers)</item>
+			<item number="4">Grifter and rube</item>
+			<item number="5">Hoodlums (thugs, hell-raisers, ass-kickers)</item>
+			<item number="6">Drug people (grower, dealer, distributor, user)</item>
+		</group>
+		<group text="Around the Village">
+			<item number="1">Officials (village manager, chief of police)</item>
+			<item number="2">Volunteers (Chamber, clubs, cultural heritage association)</item>
+			<item number="3">Church folk (deacon, Sunday school teacher, secretary)</item>
+			<item number="4">Alcoholics Anonymous / Narconon sponsor and participant</item>
+			<item number="5">Representative / citizen (Case worker, parole officer, native corporation official)</item>
+			<item number="6">Athletes (recreation league, coach, pick-up games, minor league)</item>
+		</group>
+		<group text="Romance">
+			<item number="1">Current spouses</item>
+			<item number="2">Former lovers</item>
+			<item number="3">One-time fling</item>
+			<item number="4">Crush and object of crush</item>
+			<item number="5">Lovers</item>
+			<item number="6">Former spouses</item>
+		</group>
+		<group text="Work">
+			<item number="1">Former boat crew</item>
+			<item number="2">Co-workers in the village</item>
+			<item number="3">Current boat crew</item>
+			<item number="4">Skilled work barterers (plumber, carpenter, electrician)</item>
+			<item number="5">Salesman and customer</item>
+			<item number="6">Professional and client (doctor, lawyer, dealer, wilderness guide</item>
+		</group>
+	</tab>
+	<tab text="Needs">
+		<group text="To Get Even">
+			<item number="1">... with a rival</item>
+			<item number="2">... with a state or federal agency</item>
+			<item number="3">... with a State Trooper</item>
+			<item number="4">... with this village, for what it has turned you into</item>
+			<item number="5">... with this village, and all the nosy, small people in it</item>
+			<item number="6">... with a family member</item>
+		</group>
+		<group text="To Get The Truth">
+			<item number="1">... about this village’s dark past</item>
+			<item number="2">... about the borough’s political corruption</item>
+			<item number="3">... about Jimmy May’s medical records</item>
+			<item number="4">... about someone’s infidelity</item>
+			<item number="5">... about your real parents</item>
+			<item number="6">... about the thing you saw in Kaku Inlet</item>
+		</group>
+		<group text="To Get Respect">
+			<item number="1">... from this town, by bringing down the fishing monopoly</item>
+			<item number="2">... from this town, by teaching them to be afraid</item>
+			<item number="3">... from your lover, by proving your devotion</item>
+			<item number="4">... from the police, by turning in your own kin to the state troopers</item>
+			<item number="5">... from the police, by turning in your own kin to the state troopers</item>
+			<item number="6">... from yourself, by solving the problem permanently</item>
+		</group>
+		<group text="To Get Laid">
+			<item number="1">... by that special someone who doesn’t even know you exist</item>
+			<item number="2">... in the middle of the Russian Orthodox church</item>
+			<item number="3">... by an old lover, to see if sparks fly again</item>
+			<item number="4">... in a drunken stupor, by whoever you end up with</item>
+			<item number="5">... by someone who can really grease the wheels for your project</item>
+			<item number="6">... to prove you’ve still got it</item>
+		</group>
+		<group text="To Get Out">
+			<item number="1">… of this town, because you have big dreams</item>
+			<item number="2">… of this town, to escape family and tradition</item>
+			<item number="3">... of a relationship</item>
+			<item number="4">... of a business entanglement</item>
+			<item number="5">... of an obligation to a dangerous outsider</item>
+			<item number="6">... of an obligation to your family</item>
+		</group>
+		<group text="To Get Rich">
+			<item number="1">... through stealing a drug stash</item>
+			<item number="2">... through selling illegally-cleared timber</item>
+			<item number="3">... through defrauding eco-tourists</item>
+			<item number="4">... through the death of a native elder</item>
+			<item number="5">... through ripping off the village emergency fund</item>
+			<item number="6">... through stealing a pile of fishing boat IFQ money</item>
+		</group>
+	</tab>
+	<tab text="Locations">
+				<group text="First Street">
+			<item number="1">First Street Church of Christ</item>
+			<item number="2">Morganson Plumbing and Heating</item>
+			<item number="3">Chico’s Pizza</item>
+			<item number="4">Alaska Magic gifts and cards</item>
+			<item number="5">Southeast Federal Credit Union, the only bank in town</item>
+			<item number="6">Tanner Marine Insurance</item>
+		</group>
+		<group text="Tongass Avenue">
+			<item number="1">Benny Benson Memorial K-12 school</item>
+			<item number="2">The Municipal building, police station, courthouse and city hall</item>
+			<item number="3">Pacific Medical Clinic, the only doctor in town</item>
+			<item number="4">Dagitgiyáa Native Cultural Center</item>
+			<item number="5">Chilkoot Gun and Knife</item>
+			<item number="6">Sun Chasers tanning salon and weight loss center</item>
+		</group>
+		<group text="The Harbor">
+			<item number="1">Aboard the purse seiner MV Julie Autumn</item>
+			<item number="2">Neptune Aviation Services and state floatplane dock</item>
+			<item number="3">Alaska Division of Fisheries office</item>
+			<item number="4">VistaPoint processing plant</item>
+			<item number="5">Rafter Marine, sales and repair</item>
+			<item number="6">Holiday Lines cruise ship terminal and office</item>
+		</group>
+		<group text="Residences">
+			<item number="1">The trailer at the end of Tongass Avenue</item>
+			<item number="2">The hermit’s shack</item>
+			<item number="3">The eco-mansion on Kaku inlet.</item>
+			<item number="4">A houseboat</item>
+			<item number="5">A subsidized apartment</item>
+			<item number="6">A cute clapboard house downtown</item>
+		</group>
+		<group text="The Backcountry">
+			<item number="1">KTA Telecommunications repeater and tower</item>
+			<item number="2">The logging camp</item>
+			<item number="3">On top of Harriman Peak</item>
+			<item number="4">Kelp Bay</item>
+			<item number="5">Make Out Point, overlooking town</item>
+			<item number="6">The four-wheeler track out to Kaku inlet</item>
+		</group>
+		<group text="Kaku Inlet">
+			<item number="1">University of Alaska Southeast fisheries research station</item>
+			<item number="2">The abandoned cannery</item>
+			<item number="3">Blue Raven Lodge</item>
+			<item number="4">The pulp mill</item>
+			<item number="5">The old cemetery</item>
+			<item number="6">The Skinny Dick dam and reservoir</item>
+		</group>
+	</tab>
+	<tab text="Objects">
+				<group text="Ugly">
+			<item number="1">Porn stash / sex gear</item>
+			<item number="2">Forged Permanent Fund check</item>
+			<item number="3">Priceless Tlingit artifacts</item>
+			<item number="4">Candid videotape of a former Governor</item>
+			<item number="5">Drug smuggler’s notebook</item>
+			<item number="6">Legal notice</item>
+		</group>
+		<group text="Transportation">
+			<item number="1">Old van</item>
+			<item number="2">Floatplane</item>
+			<item number="3">Skiff with fiddly outboard</item>
+			<item number="4">Moped</item>
+			<item number="5">Ocean tug MV Mahassett</item>
+			<item number="6">Mint 1967 Plymouth Barracuda notchback</item>
+		</group>
+		<group text="Bear Insurance">
+			<item number="1">Shotgun</item>
+			<item number="2">Pepper spray</item>
+			<item number="3">Hunting rifle</item>
+			<item number="4">.44 magnum revolver</item>
+			<item number="5">Pipe bomb</item>
+			<item number="6">Lumberman’s Pulaski tool</item>
+		</group>
+		<group text="Dirt">
+			<item number="1">Confidential memo</item>
+			<item number="2">Annotated USGS quadrangle map</item>
+			<item number="3">Medical billing records</item>
+			<item number="4">Love letter</item>
+			<item number="5">Property deed</item>
+			<item number="6">Stack of photographs</item>
+		</group>
+		<group text="Valuables">
+			<item number="1">Massive water-tight drug stash</item>
+			<item number="2">Mason jar filled with pre-revolution Russian gold coins</item>
+			<item number="3">Statehood memorabilia collection</item>
+			<item number="4">Vintage Aeronca Sedan airplane</item>
+			<item number="5">Purebred Weimeraner with an ear tattoo</item>
+			<item number="6">Aluminum suitcase full of cash</item>
+		</group>
+		<group text="Sentimental">
+			<item number="1">Newborn baby</item>
+			<item number="2">A novel written in longhand</item>
+			<item number="3">Old letters from a dead man</item>
+			<item number="4">Trophy</item>
+			<item number="5">Wedding ring</item>
+			<item number="6">Family heirloom no longer in family possession</item>
+		</group>
+	</tab>
+</playset>

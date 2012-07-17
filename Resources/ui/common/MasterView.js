@@ -7,9 +7,9 @@ function MasterView() {
 	
 	//some dummy data for our table view
 	var tableData = [
-		{title:'Touring Rock Band', price:'1.25', xml:'jm05.xml', hasChild:true, color: '#000', author:'Jason Morningstar', editor:'Steve Segedy', heading:'I AM A GOLDEN GOD!', summary:'It’s all about the music, man. It’s about becoming famous. It’s about the chicks, the drugs, the fans. It’s about burning bright and dying young, leaving behind a legend! Or maybe it’s about paying for the hotel room once the stupid legend has left the building. Touring Rock Band is an over-the-top collection of iconic rock and roll glories and unwholesome lunacy. It’s about golden gods rising to fame and falling back into addiction, stupidity and squalid failure.', movies:'Almost Famous. Ladies and Gentlemen, the Fabulous Stains. Paanch.', },
-		{title:'Gangster London', price:'1.50', hasChild:true, color: '#000'},
-		{title:'Last Frontier', price:'2.50', hasChild:true, color: '#000'},
+		{title:'Touring Rock Band', xml:'jm05.xml', hasChild:true, color: '#000' },
+		{title:'Gangster London', xml:'gw01.xml', hasChild:true, color: '#000'},
+		{title:'Last Frontier', xml:'jm06.xml', hasChild:true, color: '#000'},
 	];
 	
 	var table = Ti.UI.createTableView({

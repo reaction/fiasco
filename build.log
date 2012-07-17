@@ -1,17 +1,32 @@
 Logfile initialized
 [INFO] logfile = C:\Users\reaction\Fiasco\build.log
-[DEBUG] C:\Users\reaction\AppData\Roaming\Titanium\mobilesdk\win32\2.1.0.GA\android\builder.py emulator Fiasco2 C:\Users\reaction\New folder C:\Users\reaction\Fiasco com.useless.fiasco 6 HVGA
-[INFO] Launching Android emulator...one moment
-[DEBUG] From: C:\Users\reaction\New folder\tools\emulator.exe
-[DEBUG] SDCard: C:\Users\reaction\.titanium\android2.sdcard
-[DEBUG] AVD ID: 6
-[DEBUG] AVD Skin: HVGA
-[DEBUG] SDK: C:\Users\reaction\New folder
-[DEBUG] C:\Users\reaction\New folder\tools\emulator.exe -avd titanium_6_HVGA -port 5560 -sdcard "C:\Users\reaction\.titanium\titanium_6_HVGA.sdcard" -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
-[DEBUG] signal caught: 3
-[DEBUG] calling emulator kill on 4388
+[DEBUG] C:\Users\reaction\AppData\Roaming\Titanium\mobilesdk\win32\2.1.0.GA\android\builder.py simulator Fiasco2 C:\Users\reaction\New folder C:\Users\reaction\Fiasco com.useless.fiasco 6 HVGA
+[INFO] Building Fiasco2 for Android ... one moment
+[INFO] Titanium SDK version: 2.1.0 (06/28/12 12:16 6e3cab6)
+[DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.011000 seconds on emulator to get ready
+[DEBUG] com.useless.fiasco installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: C:\Users\reaction\Fiasco\Resources\jm05.xml => C:\Users\reaction\Fiasco\build\android\bin\assets\Resources\jm05.xml
+[TRACE] COPYING MODIFIED FILE: C:\Users\reaction\Fiasco\Resources\playsettemplate.xml => C:\Users\reaction\Fiasco\build\android\bin\assets\Resources\playsettemplate.xml
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-long-land-hdpi\default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-long-land-ldpi\default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-long-port-hdpi\default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-long-port-ldpi\default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-notlong-land-hdpi\default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-notlong-land-ldpi\default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-notlong-land-mdpi\default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-notlong-port-hdpi\default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-notlong-port-ldpi\default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at C:\Users\reaction\Fiasco\Resources\android\images\res-notlong-port-mdpi\default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... Fiasco2
+[INFO] Launching application ... Fiasco2
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.useless.fiasco/.Fiasco2Activity }
+
