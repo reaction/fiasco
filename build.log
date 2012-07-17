@@ -1,0 +1,17 @@
+Logfile initialized
+[INFO] logfile = C:\Users\reaction\Fiasco\build.log
+[DEBUG] C:\Users\reaction\AppData\Roaming\Titanium\mobilesdk\win32\2.1.0.GA\android\builder.py emulator Fiasco2 C:\Users\reaction\New folder C:\Users\reaction\Fiasco com.useless.fiasco 6 HVGA
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: C:\Users\reaction\New folder\tools\emulator.exe
+[DEBUG] SDCard: C:\Users\reaction\.titanium\android2.sdcard
+[DEBUG] AVD ID: 6
+[DEBUG] AVD Skin: HVGA
+[DEBUG] SDK: C:\Users\reaction\New folder
+[DEBUG] C:\Users\reaction\New folder\tools\emulator.exe -avd titanium_6_HVGA -port 5560 -sdcard "C:\Users\reaction\.titanium\titanium_6_HVGA.sdcard" -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[DEBUG] signal caught: 3
+[DEBUG] calling emulator kill on 4388
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playset name="Touring Rock Band" writer="Jason Morningstar" editor="Steve Segedy">
+	<tab1>
+		<Score quote="I AM A GOLDEN GOD!">
+			It’s all about the music, man. It’s about becoming famous. It’s about the chicks, the drugs, the fans. It’s about burning bright and dying young, leaving behind a legend!
+Or maybe it’s about paying for the hotel room once the stupid legend has left the building.
+Touring Rock Band is an over-the-top collection of iconic rock and roll glories and unwholesome lunacy. It’s about golden gods rising to fame and falling back into addiction, stupidity and squalid failure.
+		</Score>
+		<Movies>
+			Almost Famous. Ladies and Gentlemen, the Fabulous Stains. Paanch.
+		</Movies>
+	</tab1>
+	<tab2 text="Relationships">
+		<group1>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group1>
+		<group2>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group2>
+		<group3>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group3>
+		<group4>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group4>
+		<group5>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group5>
+		<group6>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group6>
+	</tab2>
+	<tab3 text="Needs">
+		<group1>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group1>
+		<group2>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group2>
+		<group3>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group3>
+		<group4>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group4>
+		<group5>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group5>
+		<group6>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group6>
+	</tab3>
+	<tab4 text="Locations">
+		<group1>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group1>
+		<group2>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group2>
+		<group3>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group3>
+		<group4>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group4>
+		<group5>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group5>
+		<group6>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group6>
+	</tab4>
+	<tab5 text="Objects">
+		<group1>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group1>
+		<group2>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group2>
+		<group3>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group3>
+		<group4>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group4>
+		<group5>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group5>
+		<group6>
+			<item number="1"></item>
+			<item number="2"></item>
+			<item number="3"></item>
+			<item number="4"></item>
+			<item number="5"></item>
+			<item number="6"></item>
+		</group6>
+	</tab5>

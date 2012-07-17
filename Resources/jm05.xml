@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playset>
+	<title>Touring Rock Band</title>
+	<author>Jason Morningstar</author>
+	<tab>
+		<quote>"I AM A GOLDEN GOD!"</quote>
+		<score>It’s all about the music, man. It’s about becoming famous. It’s about the chicks, the drugs, the fans. It’s about burning bright and dying young, leaving behind a legend!
+Or maybe it’s about paying for the hotel room once the stupid legend has left the building.
+Touring Rock Band is an over-the-top collection of iconic rock and roll glories and unwholesome lunacy. It’s about golden gods rising to fame and falling back into addiction, stupidity and squalid failure.</score>
+		<movies>Almost Famous. Ladies and Gentlemen, the Fabulous Stains. Paanch.</movies>
+	</tab>
+	<tab text="Relationships">
+		<group text="Family">
+			<item number="1">Brother and sister</item>
+			<item number="2">Brothers or sisters</item>
+			<item number="3">“Blood brothers”</item>
+			<item number="4">Cousins</item>
+			<item number="5">Twins</item>
+			<item number="6">Faked family</item>
+		</group>
+		<group text="Good Friends">
+			<item number="1">Best friends since grade school</item>
+			<item number="2">Best friends since yesterday</item>
+			<item number="3">Tour bus friends</item>
+			<item number="4">The collective soul of the band</item>
+			<item number="5">Creative challengers</item>
+			<item number="6">Friends with benefits</item>
+		</group>
+		<group text="The Grind">
+			<item number="1">Boss / roadie</item>
+			<item number="2">Boss / wardrobe and merch</item>
+			<item number="3">Tour manager / dude under manager’s thumb</item>
+			<item number="4">Boss / off-stage session musician</item>
+			<item number="5">Tour assistant manager / guitar tech</item>
+			<item number="6">Boss / weird guy with tool bag</item>
+		</group>
+		<group text="Parasites">
+			<item number="1">Dealer / drug fiend</item>
+			<item number="2">Sidekicks of The Great One</item>
+			<item number="3">Reporter / tour personnel</item>
+			<item number="4">Roadies</item>
+			<item number="5">Local celebrity / tour personnel</item>
+			<item number="6">Musician’s teenager / tour personnel</item>
+		</group>
+		<group text="Trouble">
+			<item number="1">Undercover cop / tour personnel</item>
+			<item number="2">Protective parent / tour personnel</item>
+			<item number="3">Underage fan / tour personnel</item>
+			<item number="4">Insane stalker / tour personnel</item>
+			<item number="5">Tour personnel who violently hate each other</item>
+			<item number="6">Former member of the band / tour personnel</item>
+		</group>
+		<group text="Bad Friends">
+			<item number="1">You owe him your life</item>
+			<item number="2">He owes you his career</item>
+			<item number="3">Manipulator / victim</item>
+			<item number="4">Public enemies, private friends</item>
+			<item number="5">Friends by court-ordered consent decree</item>
+			<item number="6">Public friends, private enemies</item>
+		</group>
+	</tab>
+	<tab text="Needs">
+		<group text="To Get Fucked">
+			<item number="1">By a groupie, right the hell now</item>
+			<item number="2">To prove you are straight</item>
+			<item number="3">To win a bet</item>
+			<item number="4">In a new and unsavory way not even Led Zeppelin attempted</item>
+			<item number="5">By your estranged sweetheart</item>
+			<item number="6">By the one person who can refuse you</item>
+		</group>
+		<group text="To Get Wasted">
+			<item number="1">Because your promoter told you to get in the papers</item>
+			<item number="2">As a cry for help</item>
+			<item number="3">With some cool local teenagers</item>
+			<item number="4">Just to make it through</item>
+			<item number="5">With a friendly drug dealer</item>
+			<item number="6">To handle the pressure of a TV interview</item>
+		</group>
+		<group text="To Get Piles of Cash">
+			<item number="1">By ripping off the rest of the band</item>
+			<item number="2">By signing a solo contract</item>
+			<item number="3">With the help of faith healer Tito Luna</item>
+			<item number="4">By following your cousin’s advice</item>
+			<item number="5">By keeping the band together no matter what</item>
+			<item number="6">With a sideline energy drink deal</item>
+		</group>
+		<group text="To Get Revenge">
+			<item number="1">On these toolbags that call themselves artists</item>
+			<item number="2">For the humiliation you endure every day</item>
+			<item number="3">On your fucking manager</item>
+			<item number="4">On that strutting primadonna</item>
+			<item number="5">For ignoring your creative contributions forever</item>
+			<item number="6">Because nobody calls you a poser</item>
+		</group>
+		<group text="To Get Respect">
+			<item number="1">By showing the world that you have no limits</item>
+			<item number="2">By winning an American Music Award</item>
+			<item number="3">From the band, because you deserve … respect</item>
+			<item number="4">From the crew, who laugh behind your back</item>
+			<item number="5">From your family, who think you are a failure</item>
+			<item number="6">By bringing the light of Christ to the tour</item>
+		</group>
+		<group text="To Get Out">
+			<item number="1">Of certain promises you made to certain dangerous people</item>
+			<item number="2">Of a debt you owe and can’t repay</item>
+			<item number="3">Of your fuckin’ contract</item>
+			<item number="4">Of your fuckin’ marriage</item>
+			<item number="5">Of your menial role, and thereby thrust into greatness</item>
+			<item number="6">Of your responsibility - permanently</item>
+		</group>
+	</tab>
+	<tab text="Locations">
+		<group text="The Tour Bus">
+			<item number="1">Bathroom</item>
+			<item number="2">Bedroom</item>
+			<item number="3">Driver’s seat and door well</item>
+			<item number="4">Video game lounge</item>
+			<item number="5">The roof, in motion</item>
+			<item number="6">The capacious but empty liquor cabinet</item>
+		</group>
+		<group text="The Arena">
+			<item number="1">Above the stage</item>
+			<item number="2">In the wings</item>
+			<item number="3">Beneath the stage with the pyro package</item>
+			<item number="4">The green room, with snacks</item>
+			<item number="5">On stage, before an angry crowd</item>
+			<item number="6">In the mosh pit</item>
+		</group>
+		<group text="Wherever the Hell We Are Today">
+			<item number="1">A Circle-K Cafeteria</item>
+			<item number="2">A dodgy truck stop</item>
+			<item number="3">An elementary school</item>
+			<item number="4">A used CD store</item>
+			<item number="5">“Musician’s Buddy” megastore</item>
+			<item number="6">An industrial trash incinerator</item>
+		</group>
+		<group text="Detroit">
+			<item number="1">A greasy all-ages club in Ferndale</item>
+			<item number="2">A luxury suite above the Palace of Auburn Hills arena</item>
+			<item number="3">A shabby bungalow in Hamtramck</item>
+			<item number="4">The studio of WRIF at five in the morning</item>
+			<item number="5">A Canadian 25 foot powerboat on Lake St. Clair</item>
+			<item number="6">Cargo terminal at Detroit Metro Airport</item>
+		</group>
+		<group text="Los Angeles">
+			<item number="1">The laundry room of the LA Airport Hilton</item>
+			<item number="2">The American Music Awards ceremony</item>
+			<item number="3">A powered wheelchair showroom in Ventura</item>
+			<item number="4">A crack house in East Los Angeles</item>
+			<item number="5">The Wilshire Community Police Station</item>
+			<item number="6">Cedars-Sinai Medical Center</item>
+		</group>
+		<group text="Chadwick, Idaho">
+			<item number="1">Cerulean Skies Studio</item>
+			<item number="2">The Sucker Creek Spawning Channel</item>
+			<item number="3">A barn, on fire</item>
+			<item number="4">The bed of an F-150 pickup, underwater</item>
+			<item number="5">A dog-fighting ring behind a trailer park</item>
+			<item number="6">The Mayor’s house on Plessy Street</item>
+		</group>
+	</tab>
+	<tab text="Objects">
+		<group text="Sick as Hell">
+			<item number="1">A crate of illegal blue-light lasers</item>
+			<item number="2">A sniper rifle</item>
+			<item number="3">A digital camera with a stuffed memory card</item>
+			<item number="4">Lyle Lovett</item>
+			<item number="5">A minimally-trained grizzly bear</item>
+			<item number="6">A spear-fishing gun</item>
+		</group>
+		<group text="Rockin'">
+			<item number="1">A Scab-Man costume</item>
+			<item number="2">An extraordinarily precious guitar</item>
+			<item number="3">A trailer full of theatrical lights</item>
+			<item number="4">The extra box shipped with the drum kit</item>
+			<item number="5">A pyrotechnic bomb-pot</item>
+			<item number="6">“Flight” rigging and angel wings</item>
+		</group>
+		<group text="Rollin'">
+			<item number="1">A 20 gallon tub of porn DVDs</item>
+			<item number="2">A bong made out of a 13-year-old girls’ skull</item>
+			<item number="3">A heat-sealed Mylar sack of weed</item>
+			<item number="4">Polyhedral dice made out of real rubies</item>
+			<item number="5">A case of top shelf whiskey bottles</item>
+			<item number="6">An unlabeled chemical paste in a locked Pelican box</item>
+		</group>
+		<group text="Fuckin' Awesome">
+			<item number="1">Ronnie James Dio’s wristbands</item>
+			<item number="2">A “full body burn” stunt suit</item>
+			<item number="3">An African dictator’s Learjet 25</item>
+			<item number="4">A mountain of cocaine</item>
+			<item number="5">Bondage gear</item>
+			<item number="6">A Maserati Quatroporte III</item>
+		</group>
+		<group text="Dude, No Way">
+			<item number="1">Somebody’s heroin works</item>
+			<item number="2">A district attorney’s misplaced notes</item>
+			<item number="3">A threatening email message</item>
+			<item number="4">An unfortunate X-Ray</item>
+			<item number="5">A pit bull kennel with a wonky lock</item>
+			<item number="6">Advance copy of a scathing expose on the band</item>
+		</group>
+		<group text="Fuckin' Weak">
+			<item number="1">A restraining order</item>
+			<item number="2">A Ford Fiesta</item>
+			<item number="3">The Manager’s true account books</item>
+			<item number="4">The pager number of doom</item>
+			<item number="5">A scrapbook of Janet Jackson clippings</item>
+			<item number="6">A truckload of telephone handsets</item>
+		</group>
+	</tab>
+</playset>
